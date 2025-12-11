@@ -1,6 +1,43 @@
-.td{
-    box {dgrgergergregergergerte4t34t344
-  border: 2px solid black;
-}sdfdgsfsfefgghrherrherh
-rtwhrwhh4
+#body {
+  direction: rtl;
+ background-repeat:no-repeat;
+ width: 100vw;
+ height: 100vh;
+background-color: aqua;
+margin: 0;
+padding: 0;
 }
+.header { 
+  background-color: blueviolet;
+  width: 100vw;
+  height: 200px;
+text-align: center;
+}
+.nav {
+  text-align: center;
+background-color: black;
+margin-top: 50px;
+width: 50vw;
+height: 90px;
+display: inline-block;
+}
+ul li {
+  display: inline-block ;
+  padding:0 10px 0 25px;
+}
+ul li :hover {
+  background-color: yellow;
+ padding: 0 10px 0 10px;
+border-radius: 20px;
+transition: all 1s;
+
+}
+a {
+  color: rgb(0, 255, 64);
+  text-decoration: none;
+
+}
+.impot {
+  la
+}
+
